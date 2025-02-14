@@ -27,9 +27,9 @@ I’m currently working on data analytics projects that involve statistical mode
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=calm&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=calm&hide_border=true"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact"><br/>
 </p>
 
 ---
