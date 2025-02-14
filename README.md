@@ -1,49 +1,61 @@
 <!-- ABOUT ME SECTION -->
-<h1 align="center">💫 About Me</h1>
+<h1>🌟 About Me</h1>
 
-<p align="center">
-I’m currently working on <b>data analytics projects</b> involving <b>statistical modeling, machine learning, and business intelligence</b>, with a focus on <b>finance, customer segmentation, and operational efficiency</b>.  
+<p>
+I’m currently working on <b>data analytics projects</b> involving <b>statistical modeling, machine learning, and business intelligence</b>, 
+with a focus on <b>finance, customer segmentation, and operational efficiency</b>.
 </p>
-<p align="center">
-I’m exploring <b>cloud-based tools like AWS & Databricks</b> to scale data processing and automation.  
+<p>
+I’m exploring <b>cloud-based tools like AWS & Databricks</b> to scale data processing and automation.
 </p>
-<p align="center">
+<p>
 <b>Ask me about:</b> Machine Learning workflows, Power BI dashboards, and SQL-based data extraction.
 </p>
 
 ---
 
 <!-- TECH STACK -->
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Red_Circle.svg" width="16" height="16"> Tech Stack
-</h2>
+<h2>🔧 Tech Stack</h2>
 
-<p align="center">
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Python</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">R</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">MySQL</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Power BI</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Postman</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Jira</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">GitHub</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">NumPy</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Pandas</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Matplotlib</span>
-  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Scikit-Learn</span>
+<p>
+  <button class="tech-btn">Python</button>
+  <button class="tech-btn">R</button>
+  <button class="tech-btn">MySQL</button>
+  <button class="tech-btn">Power BI</button>
+  <button class="tech-btn">Postman</button>
+  <button class="tech-btn">Jira</button>
+  <button class="tech-btn">GitHub</button>
+  <button class="tech-btn">NumPy</button>
+  <button class="tech-btn">Pandas</button>
+  <button class="tech-btn">Matplotlib</button>
+  <button class="tech-btn">Scikit-Learn</button>
 </p>
 
+<style>
+  .tech-btn {
+    background-color: cyan; /* Default cyan background */
+    color: black; /* Text color */
+    border: none; /* No border */
+    padding: 10px 20px; /* Adjust padding */
+    font-size: 14px; /* Font size */
+    font-weight: bold;
+    border-radius: 10px; /* Rounded edges */
+    margin: 5px; /* Space between buttons */
+    cursor: pointer; /* Pointer cursor */
+    transition: 0.3s; /* Smooth hover effect */
+  }
+
+  .tech-btn:hover {
+    background-color: rgb(0, 200, 200); /* Slightly darker cyan on hover */
+  }
+</style>
 
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill="red" d="M12 2C6.5 2 2 6.5 2 12S6.5 22 12 22 22 17.5 22 12 17.5 2 12 2ZM12 20C7.6 20 4 16.4 4 12S7.6 4 12 4 20 7.6 20 12 16.4 20 12 20Z"></path>
-</svg>
- GitHub Stats
-</h2>
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=shadow_red&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
@@ -52,38 +64,26 @@ I’m exploring <b>cloud-based tools like AWS & Databricks</b> to scale data pro
 ---
 
 <!-- GITHUB TROPHIES -->
-<h2 align="center">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill="red" d="M12 2C8.1 2 5 5.1 5 9C5 12.3 7.5 15.1 10.7 15.8V18H7V20H17V18H13.3V15.8C16.5 15.1 19 12.3 19 9C19 5.1 15.9 2 12 2ZM12 14C9.2 14 7 11.8 7 9C7 6.2 9.2 4 12 4C14.8 4 17 6.2 17 9C17 11.8 14.8 14 12 14Z"></path>
-</svg>
- GitHub Trophies
-</h2>
+<h2>🏆 GitHub Trophies</h2>
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=fwangsaw&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
 ---
 
 <!-- TOP CONTRIBUTED REPOS -->
-<h2 align="center">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill="red" d="M21 3H3C1.9 3 1 3.9 1 5V19C1 20.1 1.9 21 3 21H21C22.1 21 23 20.1 23 19V5C23 3.9 22.1 3 21 3ZM21 19H3V5H21V19Z"></path>
-</svg>
- Top Contributed Repos
-</h2>
+<h2>🔝 Top Contributed Repos</h2>
 
-<p align="center">
+<p>
   <img src="https://github-contributor-stats.vercel.app/api?username=fwangsaw&limit=5&theme=shadow_red&combine_all_yearly_contributions=true">
 </p>
 
 ---
 
 <!-- VISITOR COUNT -->
-<h2 align="center">
- Visitor Count
-</h2>
+<h2>👀 Visitor Count</h2>
 
-<p align="center">
+<p>
   <img src="https://visitcount.itsvg.in/api?id=fwangsaw&icon=0&color=4">
 </p>
