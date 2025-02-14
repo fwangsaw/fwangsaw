@@ -27,7 +27,15 @@ I’m currently working on data analytics projects that involve statistical mode
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=calm&hide_border=true">
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fwangsaw&theme=calm" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
