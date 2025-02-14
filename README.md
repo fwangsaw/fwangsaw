@@ -8,23 +8,22 @@ I’m currently working on data analytics projects that involve statistical mode
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/R-2C2F40?style=for-the-badge&logo=r&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/MySQL-2C2F40?style=for-the-badge&logo=mysql&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Power_BI-2C2F40?style=for-the-badge&logo=powerbi&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Postman-2C2F40?style=for-the-badge&logo=postman&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Jira-2C2F40?style=for-the-badge&logo=jira&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/GitHub-2C2F40?style=for-the-badge&logo=github&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/NumPy-2C2F40?style=for-the-badge&logo=numpy&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Pandas-2C2F40?style=for-the-badge&logo=pandas&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Matplotlib-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E">
-  <img src="https://img.shields.io/badge/Scikit--Learn-2C2F40?style=for-the-badge&logo=scikit-learn&logoColor=E97D5E">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-2C2F40?style=for-the-badge&logo=numpy&logoColor=E97D5E"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2F40?style=for-the-badge&logo=pandas&logoColor=E97D5E"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E"></a>
+  <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Scikit--Learn-2C2F40?style=for-the-badge&logo=scikit-learn&logoColor=E97D5E"></a>
+  <a href="https://posit.co/download/rstudio-desktop/"><img src="https://img.shields.io/badge/R-2C2F40?style=for-the-badge&logo=r&logoColor=E97D5E"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-2C2F40?style=for-the-badge&logo=mysql&logoColor=E97D5E"></a>
+  <a href="https://app.powerbi.com/"><img src="https://img.shields.io/badge/Power_BI-2C2F40?style=for-the-badge&logo=powerbi&logoColor=E97D5E"></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-2C2F40?style=for-the-badge&logo=postman&logoColor=E97D5E"></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-2C2F40?style=for-the-badge&logo=jira&logoColor=E97D5E"></a>
+  <a href="https://www.github.com/"><img src="https://img.shields.io/badge/GitHub-2C2F40?style=for-the-badge&logo=github&logoColor=E97D5E"></a>
 </p>
 
 ---
 
 ## GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true"><br/>
