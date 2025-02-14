@@ -15,25 +15,23 @@ I’m exploring <b>cloud-based tools like AWS & Databricks</b> to scale data pro
 
 <!-- TECH STACK -->
 <h2 align="center">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill="red" d="M21 4H3C1.9 4 1 4.9 1 6V18C1 19.1 1.9 20 3 20H21C22.1 20 23 19.1 23 18V6C23 4.9 22.1 4 21 4ZM21 18H3V6H21V18Z"></path>
-</svg>
- Tech Stack
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Red_Circle.svg" width="16" height="16"> Tech Stack
 </h2>
 
 <p align="center">
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Python</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">R</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">MySQL</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Power BI</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Postman</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Jira</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">GitHub</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">NumPy</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Pandas</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Matplotlib</span>
-  <span style="display:inline-block;padding:10px 20px;border-radius:8px;border:1px solid #ff3333;color:#ff3333;margin:5px;">Scikit-Learn</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Python</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">R</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">MySQL</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Power BI</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Postman</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Jira</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">GitHub</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">NumPy</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Pandas</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Matplotlib</span>
+  <span style="display:inline-block;padding:8px 15px;border:2px solid #ff3333;color:#ff3333;border-radius:8px;margin:5px;">Scikit-Learn</span>
 </p>
+
 
 ---
 
