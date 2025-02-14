@@ -11,6 +11,75 @@ I’m currently working on data analytics projects that involve statistical mode
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fwangsaw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 💫 About Me:
+I’m currently working on **data analytics projects** involving **statistical modeling, machine learning, and business intelligence**, with a focus on **finance, customer segmentation, and operational efficiency**.  
+
+I’m exploring **cloud-based tools like AWS & Databricks** to scale data processing and automation.  
+**Ask me about:** Machine Learning workflows, Power BI dashboards, and SQL-based data extraction.  
+
+---
+
+## 💻 Tech Stack:
+
+<div align="center">
+  
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Python </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> R </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> MySQL </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Power BI </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Postman </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Jira </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> GitHub </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> NumPy </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Pandas </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Matplotlib </span>
+  <span style="background-color:#2b2b2b;padding:10px 14px;border-radius:5px;color:white;font-weight:bold;"> Scikit-Learn </span>
+
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true)  
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=shadow_red&hide_border=true)  
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?username=fwangsaw&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=fwangsaw&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🌍 Visitor Count
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=fwangsaw&icon=0&color=4)](https://visitcount.itsvg.in)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fwangsaw&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
