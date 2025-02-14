@@ -1,23 +1,24 @@
 ## About Me
 
-I’m currently working on data analytics projects involving statistical modeling, machine learning, and business intelligence, with a focus on finance, customer segmentation, and operational efficiency. I’m exploring cloud-based tools like AWS & Databricks to scale data processing and automation. Ask me about machine learning workflows, Power BI dashboards, and SQL-based data extraction.
+I’m currently working on data analytics projects that involve statistical modeling, machine learning, and business intelligence, with a focus on finance, customer segmentation, and operational efficiency. I’m looking to collaborate on real-world applications of data-driven decision-making, including predictive modeling, workflow automation, and deployment strategies. I’m currently learning cloud-based tools like AWS and Databricks to enhance data processing and scalability. Ask me about machine learning workflows, Power BI dashboards, and SQL-based data extraction.  
+⚡ Fun fact: I enjoy optimizing analytics pipelines to make insights more accessible and actionable.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ff3333?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-ff3333?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-ff3333?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-ff3333?style=for-the-badge&logo=powerbi&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-ff3333?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-ff3333?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-ff3333?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-ff3333?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-ff3333?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-ff3333?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-ff3333?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/R-2C2F40?style=for-the-badge&logo=r&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/MySQL-2C2F40?style=for-the-badge&logo=mysql&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Power_BI-2C2F40?style=for-the-badge&logo=powerbi&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Postman-2C2F40?style=for-the-badge&logo=postman&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Jira-2C2F40?style=for-the-badge&logo=jira&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/GitHub-2C2F40?style=for-the-badge&logo=github&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/NumPy-2C2F40?style=for-the-badge&logo=numpy&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Pandas-2C2F40?style=for-the-badge&logo=pandas&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Matplotlib-2C2F40?style=for-the-badge&logo=python&logoColor=E97D5E">
+  <img src="https://img.shields.io/badge/Scikit--Learn-2C2F40?style=for-the-badge&logo=scikit-learn&logoColor=E97D5E">
 </p>
 
 ---
@@ -25,9 +26,9 @@ I’m currently working on data analytics projects involving statistical modelin
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fwangsaw&theme=calm&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
@@ -35,7 +36,7 @@ I’m currently working on data analytics projects involving statistical modelin
 ## GitHub Contributions & Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fwangsaw&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fwangsaw&limit=5&theme=calm&combine_all_yearly_contributions=true">
 </p>
 
 <p align="center">
