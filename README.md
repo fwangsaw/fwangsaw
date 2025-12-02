@@ -21,8 +21,6 @@ I’m currently working on data analytics projects that involve statistical mode
   <a href="https://www.github.com/"><img src="https://img.shields.io/badge/GitHub-2C2F40?style=for-the-badge&logo=github&logoColor=E97D5E"></a>
 </p>
 
----
-
 <!-- ## GitHub Stats -->
 
 <!-- <p align="center"> -->
