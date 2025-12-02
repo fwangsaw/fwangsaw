@@ -23,7 +23,7 @@ I’m currently working on data analytics projects that involve statistical mode
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
 <!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=fwangsaw&theme=calm&hide_border=true&include_all_commits=true&count_private=true"><br/> -->
